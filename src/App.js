@@ -1,4 +1,4 @@
-import React from 'react';// a
+import React from 'react';
 import './App.css';
 
 import StrangerThings from './components/StrangerThings';
